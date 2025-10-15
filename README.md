@@ -1,6 +1,6 @@
 # Dynamic Attack Adaptation - Cybersecurity Detection System
 
-A comprehensive machine learning-based cybersecurity detection and response system that provides real-time threat detection, behavioral analysis, and automated incident response capabilities.
+A comprehensive cybersecurity detection and response system that provides real-time threat detection, behavioral analysis, and automated incident response capabilities.
 
 ## Overview
 
